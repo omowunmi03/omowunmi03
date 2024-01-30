@@ -2,7 +2,7 @@
 
 I'm Omowunmi Oluwole-Denton, an aspiring software engineer currently studying Computer Science at Kibo School of Technology. I'm working towards a Bachelor's degree with the goal of becoming a full stack developer. In addition to coding, I have experience in social media management and content creation. I enjoy using my skills in these areas to connect with people and help share valuable ideas and information. In my free time you can find me reading, writing, and constantly exploring new passions and interests. I believe in lifelong learning and always challenging myself to grow.
 
-I'd love to connect and collaborate on software projects together! Please feel free to reach out via GitHub or by email at [](oluwoledentonjanet@gmail.com)
+I'd love to connect and collaborate on software projects together! Please feel free to reach out via GitHub or by email at [My email](oluwoledentonjanet@gmail.com)
 
 ### Some of the technologies, languages, and tools I have experience working with include:
 

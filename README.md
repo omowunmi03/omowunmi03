@@ -14,7 +14,7 @@ I'd love to connect and collaborate on software projects together! Please feel f
 
 ### 💡 Projects with My Work
 
-- [Team's Portfolio Website]([https://www.mywebsite.com](https://kibo-web-dev-fundamentals-july-23.github.io/wdf-jul-23-final-project-ofa/)https://kibo-web-dev-fundamentals-july-23.github.io/wdf-jul-23-final-project-ofa/) - A portfolio website for a team of software engineers.
+- [Team's Portfolio Website](https://kibo-web-dev-fundamentals-july-23.github.io/wdf-jul-23-final-project-ofa/)- A portfolio website for a team of software engineers.
   
 - [Numeric Processor](https://github.com/kibo-programming-2-oct-23/prog2-midterm-project-numeric-processor-omowunmi03) - A specialized microprocessor that is designed to rapidly perform mathematical calculations.
 

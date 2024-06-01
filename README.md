@@ -23,7 +23,7 @@ I'd love to connect and collaborate on software projects together! Please feel f
 
 - [Afrolodge](https://afrologde-com.onrender.com) - It's a web application that imitates AirBnB, it allows people to check out property, book and lease their property as well.
 
-- [Book Shelf App](https://bookshelf-mbnb.onrender.com/) - It's a web application that can be used to keep books.
+
   
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/omowunmi_od)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Omowunmi Oluwole-Denton, an aspiring software engineer and tech content creator studying Computer Science at Kibo School of Technology, I leverage my front-end development skills to produce tutorials and articles that teach web development. Experienced working with SQL databases, Python and front-end skills in HTML, CSS, JavaScript and Bootstrap. I believe in lifelong learning and always challenging myself to grow through both development projects and creative educational content.
+I'm Omowunmi Oluwole-Denton, an aspiring software engineer and technical writer studying Computer Science at Kibo School of Technology, I leverage my front-end development skills to produce tutorials and articles that teach web development. Experienced working with SQL databases, Python and front-end skills in HTML, CSS, JavaScript and Bootstrap. I believe in lifelong learning and always challenging myself to grow through both development projects and creative educational content.
 
 I'd love to connect and collaborate on software projects together! Please feel free to reach out via GitHub or by email at [My email](oluwoledentonjanet@gmail.com)
 
@@ -21,7 +21,7 @@ I'd love to connect and collaborate on software projects together! Please feel f
 
 - [Technical Blog Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page?messages=success%5B0%5D%3Dflash.signin-success)
 
--[Afrolodge](https://afrologde-com.onrender.com) - It's a web application that imitates AirBnB, it allows people to check out property, book and lease their property as well.
+- [Afrolodge](https://afrologde-com.onrender.com) - It's a web application that imitates AirBnB, it allows people to check out property, book and lease their property as well.
   
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/omowunmi_od)

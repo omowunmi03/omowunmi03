@@ -20,6 +20,8 @@ I'd love to connect and collaborate on software projects together! Please feel f
 - [Number Guessing Game](https://github.com/kibo-web-app-dev-oct-23/week-2-assignment-number-guessing-game-omowunmi03) - An application that is used to guess a secret number.
 
 - [Technical Blog Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page?messages=success%5B0%5D%3Dflash.signin-success)
+
+-[Afrolodge](https://afrologde-com.onrender.com) - It's a web application that imitates AirBnB, it allows people to check out property, book and lease their property as well.
   
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/omowunmi_od)

@@ -23,7 +23,7 @@ I'm passionate about making tasks easier by streamlining processes and automatin
 - GitHub
 - Bootstrap
 
-### Automation Projects with My Work 
+### 💡 Automation Projects with My Work 
 
 - [Zappos Customer Service Support Workflow](https://airtable.com/appfPJiSmWVo3R2Jq/shrTDnn7ZXK7bSknc) - Streamlines the process of handling customer complaints by automating form details, assignment to support agents, and tracking the resolution status, improving overall response time and efficiency.
 

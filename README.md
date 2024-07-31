@@ -3,6 +3,7 @@
 I'm passionate about making tasks easier by streamlining processes and automating workflows. I enjoy finding creative solutions to complex challenges, turning them into efficient and manageable systems. With a solid foundation in front-end development, I am well-equipped to create innovative solutions and give virtual administrative support that drives efficiency and growth. I believe in lifelong learning and always challenging myself to grow through development projects. 
 
 ### Programming Languages & Frameworks:
+- Python
 - HTML, CSS, JavaScript
 - Flask, Express
 

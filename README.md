@@ -1,14 +1,30 @@
 ### Hi there 👋
 
-I'm Omowunmi Oluwole-Denton, an aspiring software engineer and technical writer studying Computer Science at Kibo School of Technology, I leverage my front-end development skills to produce tutorials and articles that teach web development. Experienced working with SQL databases, Python and front-end skills in HTML, CSS, JavaScript and Bootstrap. I believe in lifelong learning and always challenging myself to grow through both development projects and creative educational content.
-
-📫 How to reach me: Email me at [My email](oluwoledentonjanet@gmail.com)
+I'm Omowunmi Oluwole-Denton, a highly organized and tech-savvy individual with a strong passion for organization, automation and process optimization. I am proficient in streamlining business processes to boost productivity. With a solid foundation in front-end development, I am well-equipped to create innovative solutions and give virtual administrative support that drives efficiency and growth. I believe in lifelong learning and always challenging myself to grow through development projects.
 
 ### Some of the technologies, languages, and tools I have experience working with include:
 
+### Programming Languages & Frameworks:
 - HTML, CSS, JavaScript
 - Flask, Express
-- Git, GitHub
+
+### Automation & Workflow Tools:
+
+- Zapier
+- Airtable
+- Make (Integromat)
+- Typeform
+- Glide
+  
+### Project Management & Collaboration:
+
+- Trello
+- Google Workspace
+  
+### Version Control & Styling:
+
+- Git
+- GitHub
 - Bootstrap
 
 ### Automation Projects with My Work 
@@ -35,6 +51,7 @@ I'm Omowunmi Oluwole-Denton, an aspiring software engineer and technical writer 
 
   
 ### 📫 How to reach me?
+- [My email](janetoluwoledenton@gmail.com)
 - [Twitter](https://twitter.com/omowunmi_od)
 - [LinkedIn](https://www.linkedin.com/in/omowunmioluwole-denton/)
 

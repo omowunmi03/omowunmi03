@@ -2,7 +2,7 @@
 
 I'm Omowunmi Oluwole-Denton, an aspiring software engineer and technical writer studying Computer Science at Kibo School of Technology, I leverage my front-end development skills to produce tutorials and articles that teach web development. Experienced working with SQL databases, Python and front-end skills in HTML, CSS, JavaScript and Bootstrap. I believe in lifelong learning and always challenging myself to grow through both development projects and creative educational content.
 
-I'd love to connect and collaborate on software projects together! Please feel free to reach out via GitHub or by email at [My email](oluwoledentonjanet@gmail.com)
+📫 How to reach me: Email me at [My email](oluwoledentonjanet@gmail.com)
 
 ### Some of the technologies, languages, and tools I have experience working with include:
 
@@ -11,7 +11,16 @@ I'd love to connect and collaborate on software projects together! Please feel f
 - Git, GitHub
 - Bootstrap
 
-### 💡 Projects with My Work
+### Automation Projects with My Work 
+
+- [Zappos Customer Service Support Workflow](https://airtable.com/appfPJiSmWVo3R2Jq/shrTDnn7ZXK7bSknc)
+- [Operations and Customer Communication System Workflow](https://airtable.com/app0TGxedxD6T5mGA/shrUCuZ9huaKfp9jI)
+- [Hire a Data Analyst Workflow](https://airtable.com/appyGClgn1zdYeJSi/shrbmtJWaecYJoH7F)
+- [Advisor Check-in Workflow](https://airtable.com/appr1KecyLffspED1/shrVNfi2bXWdawsqu)
+- [Employee Time-off Application Workflow](https://airtable.com/appJthFyaKqcMDwjL/shrTd4rk69HPrD3K6)
+- [Employee Review Workflow](https://airtable.com/appinx5DsD8ugWAYB/shr6DazWFJKlj3I09)
+
+### 💡 Tech Projects with My Work
 
 - [Team's Portfolio Website](https://kibo-web-dev-fundamentals-july-23.github.io/wdf-jul-23-final-project-ofa/)- A portfolio website for a team of software engineers.
   
